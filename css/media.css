@@ -57,10 +57,6 @@
         margin-right: 200px;
     }
 
-    .language-text{
-        max-width: 500px;
-    }
-
     .footer-inner{
         flex-direction: column;
         gap: 20px;
