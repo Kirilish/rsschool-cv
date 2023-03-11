@@ -327,38 +327,41 @@ body {
 /* CODE */
 
 .code-example {
+  padding: 30px 0;
   margin: 0 70px;
   line-height: 24px;
   font-size: 18px;
   background: #f1f1f1;
 }
-.code-box {
-  padding: 30px 10px;
-}
 
-.function {
-  font-weight: bold;
-  color: #080;
-}
 .name-function {
   font-weight: bold;
   color: #06b;
 }
+
 .name-let {
   font-weight: bold;
   color: #d32929;
 }
+
 .keyword {
   font-weight: bold;
   color: #080;
 }
+
 .operator {
   font-weight: normal;
   color: #000;
-}
+} 
+
 .storage-type {
   font-weight: bold;
   color: #06b;
+}
+
+.name-result{
+  font-weight: bold;
+  color: rgb(56, 163, 180);
 }
 
 /* language */
